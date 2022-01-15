@@ -1,17 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.4.7.2 (Linux)"/>
-	<meta name="created" content="2022-01-15T19:01:41.824308219"/>
-	<meta name="changed" content="2022-01-15T19:03:18.612549861"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
-		a:link { color: #000080; so-language: zxx; text-decoration: underline }
-		a:visited { color: #800000; so-language: zxx; text-decoration: underline }
-	</style>
 </head>
 <body lang="eu-ES" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
 Kaixo:</p>
